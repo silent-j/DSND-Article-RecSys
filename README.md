@@ -1,5 +1,5 @@
 # DSND-Article-RecSys
-An analysis of user interactions on IBM's Watson Studio platform. A recommendation system is deployed to suggest articles based on user interactions. 
+An analysis of user interactions on IBM's Watson Studio platform. The goal of this project is to experiment with different recommendation system methods and identify the strength and weaknesses of each. 
 
 # Installation
 The project requires Python 3.x or higher. The following libraries are used:
